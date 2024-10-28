@@ -1,0 +1,16 @@
+/* Hero.module.css */
+.hero {
+    background-color: #f0f0f0;
+    padding: 2rem;
+    text-align: center;
+}
+
+.heading {
+    font-size: 2rem;
+    color: #333;
+}
+
+.subheading {
+    font-size: 1.2rem;
+    color: #666;
+}
